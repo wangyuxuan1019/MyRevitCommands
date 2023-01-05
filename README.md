@@ -1,5 +1,5 @@
 # MyRevitCommands
-.NET C# based plugins for Revit on both interface and database level inluding :
+.NET C# based plugins for Revit on both interface and database levels inluding :
 
     GetElementId - Get the Id from an element
     
