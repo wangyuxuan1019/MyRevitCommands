@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>B1ADF4EA-BE0A-462C-8479-697393F0D522</AddInId>
+		<FullClassName>MyRevitCommands.GetElementId</FullClassName>
+		<Text>GetElementId</Text>
+		<Description>Get the Id from an element</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>ACDD166B-6C52-49E2-8F90-364A9C9F265B</AddInId>
+		<FullClassName>MyRevitCommands.CollectWindows</FullClassName>
+		<Text>CollectWindows</Text>
+		<Description>Collect windows from a document</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>9076902F-6BE8-4654-A6A0-507D7337928B</AddInId>
+		<FullClassName>MyRevitCommands.DeleteElement</FullClassName>
+		<Text>DeleteElement</Text>
+		<Description>Delete an Element from a document</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>50273C5D-9B28-4144-8981-A38B3B1A2D0D</AddInId>
+		<FullClassName>MyRevitCommands.PlaceFamily</FullClassName>
+		<Text>PlaceFamily</Text>
+		<Description>Place a family</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>4BC10B81-2008-4281-AB3C-0DEE4AC45708</AddInId>
+		<FullClassName>MyRevitCommands.PlaceLineElement</FullClassName>
+		<Text>PlaceLineElement</Text>
+		<Description>Place line elements(wall)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>460A3186-A6DC-4067-A783-78E1EE336BC4</AddInId>
+		<FullClassName>MyRevitCommands.PlaceLoopElement</FullClassName>
+		<Text>PlaceLoopElement</Text>
+		<Description>Place loop elements(floor)</Description>
+		<VendorId>Lily</VendorId>j
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>84477975-F849-47EF-BDF2-EA5D9F6C7B55</AddInId>
+		<FullClassName>MyRevitCommands.GetParameter</FullClassName>
+		<Text>GetParameter</Text>
+		<Description>Get a parameter(window height)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>1CF2A3FC-C82F-42F9-9942-27532AA4F36D</AddInId>
+		<FullClassName>MyRevitCommands.TotalLength</FullClassName>
+		<Text>TotalLength</Text>
+		<Description>Get the total length from multiple lines</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>38133D51-ACDB-4473-B0D8-6AE79403147B</AddInId>
+		<FullClassName>MyRevitCommands.SetParameter</FullClassName>
+		<Text>SetParameter</Text>
+		<Description>Set a parameter(window height)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>683DE4DB-D119-409E-9231-D80705F9AE44</AddInId>
+		<FullClassName>MyRevitCommands.ChangeLocation</FullClassName>
+		<Text>ChangeLocation</Text>
+		<Description>Change the location of an element(shift East 3)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>F9E40D5B-5517-4106-A443-D50381CA515E</AddInId>
+		<FullClassName>MyRevitCommands.EditElement</FullClassName>
+		<Text>EditElement</Text>
+		<Description>Edit an element(shift NorthEast 3 and rotate 30)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>8A8CBC90-27CF-47D5-A9DE-47D18FD78EAA</AddInId>
+		<FullClassName>MyRevitCommands.SelectGeometry</FullClassName>
+		<Text>SelectGeometry</Text>
+		<Description>Select geometries and calculate the area of all faces</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>BAF411C9-E523-4A83-945C-14CE62417C84</AddInId>
+		<FullClassName>MyRevitCommands.ElementIntersection</FullClassName>
+		<Text>ElementIntersection</Text>
+		<Description>Select geometries that have intersection</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>CD901B15-4813-4833-9826-047A5BB0289E</AddInId>
+		<FullClassName>MyRevitCommands.CreatePlanView</FullClassName>
+		<Text>CreatePlanView</Text>
+		<Description>Create a plan view(level 1)</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>5C6D3996-2829-4594-A99D-6331DA78020E</AddInId>
+		<FullClassName>MyRevitCommands.ViewFilter</FullClassName>
+		<Text>ViewFilter</Text>
+		<Description>Filter section views(withOUT "WIP")</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>01FBD62B-5ABB-43EB-93B0-D03C0B338589</AddInId>
+		<FullClassName>MyRevitCommands.TagView</FullClassName>
+		<Text>TagView</Text>
+		<Description>Tag elements in a view</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>506C7330-0407-42C5-95D0-134786910372</AddInId>
+		<FullClassName>MyRevitCommands.Sheets</FullClassName>
+		<Text>Sheets</Text>
+		<Description>Create a sheet</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Command">
+		<Name>MyRevitCommands</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>6202D306-E087-4FD6-B776-FB8A83295341</AddInId>
+		<FullClassName>MyRevitCommands.PlaceView</FullClassName>
+		<Text>PlaceView</Text>
+		<Description>Place view on a sheet</Description>
+		<VendorId>Lily</VendorId>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>ApplicationPlugin</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>B93C24CC-9F3B-4E6F-A227-85BC32A6BE19</AddInId>
+		<FullClassName>MyRevitCommands.ExternalApplication</FullClassName>
+		<VendorId>Lily</VendorId>		
+	</AddIn>
+	<AddIn Type="DBApplication">
+		<Name>ApplicationPlugin</Name>
+		<Assembly>MyRevitCommands.dll</Assembly>
+		<AddInId>49C370DA-5097-4B6E-8465-F04C7A9DE213</AddInId>
+		<FullClassName>MyRevitCommands.ExternalDBapp</FullClassName>
+		<VendorId>Lily</VendorId>
+	</AddIn>
+</RevitAddIns> 

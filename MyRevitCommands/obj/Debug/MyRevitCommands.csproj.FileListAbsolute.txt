@@ -1,0 +1,7 @@
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.AssemblyReference.cache
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\YUXWANG\source\repos\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
