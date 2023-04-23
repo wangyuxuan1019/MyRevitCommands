@@ -2,7 +2,7 @@
 
 Created C# plugins for Revit within .NET framework to interact with Revit API on both interface and database level:
 
-  GetElementId - get the Id from an element
+  - GetElementId - get the Id from an element
 
   CollectWindows - Collect windows from a document
 
